@@ -6,6 +6,8 @@
 
 [https://www.slideshare.net/slideshow/apache-kafka-101-a-simple-presentation-on-how-to-use-kafka/269961360](https://www.slideshare.net/slideshow/apache-kafka-101-a-simple-presentation-on-how-to-use-kafka/269961360)
 
+[slide share 下载工具](https://www.slidegrabber.com/save.html)
+
 [https://blog.devgenius.io/apache-kafka-101-d85e6ee402e0?gi=42d254575027](https://blog.devgenius.io/apache-kafka-101-d85e6ee402e0?gi=42d254575027)
 
 [https://dev.to/hcapucho/apache-kafka-101-introduction-567a](https://dev.to/hcapucho/apache-kafka-101-introduction-567a)
